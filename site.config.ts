@@ -17,6 +17,7 @@ export default siteConfig({
   //description: 'Example Next.js Notion Starter Kit Site',
 
   // social usernames (optional)
+  email: 'kang.xu92@outlook.com',
   //twitter: 'transitive_bs',
   //github: 'transitive-bullshit',
   //linkedin: 'fisch2',
