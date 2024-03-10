@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'f1d2fc6fbdd842b18bb47e75a12f39a9',
+  rootNotionPageId: '7a24775ac5554b2ba90719c7cc148492',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '徐康的个人博客',
-  domain: 'xkdrive.top',
+  domain: 'xuschreibt.cn',
   author: '徐康',
 
   // open graph metadata (optional)
